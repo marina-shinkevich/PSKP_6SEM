@@ -1,0 +1,11 @@
+[
+    {
+        "id": 3,
+        "name": "MARINA",
+        "surname": "SHINKEVICH",
+        "address": {
+            "street": "Юбилейная 51",
+            "city": "Минск"
+        }
+    }
+]

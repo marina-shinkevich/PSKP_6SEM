@@ -1,0 +1,5 @@
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = LAB22-YVA
+DNS.2 = YVA
